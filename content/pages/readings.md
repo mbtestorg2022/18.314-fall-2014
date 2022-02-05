@@ -6,45 +6,468 @@ uid: 35d3b2c8-bd32-f77a-8ee2-0eb1252d9d33
 
 Most of the readings are assigned from the required textbook Bona, Miklos. _A Walk Through Combinatorics: An Introduction to Enumeration and Graph Theory_. World Scientific Publishing Company, 2011. ISBN: 9789814335232. \[Preview with [Google Books](http://books.google.com/books?id=TzJ2L9ZmlQUC&pg=PAfrontcover)\]
 
-| SES # | TOPICS | READINGS |
-| --- | --- | --- |
-| 1 | Pigeonhole Principle | Chapter 1 |
-| 2 | Induction, Elementary Counting | Chapter 2 and start Chapter 3. |
-| 3 | Elementary Counting (concluded) | Chapter 3 (continued) |
-| 4 | Binomial Theorem, Compositions | Chapter 4 |
-| 5 | Compositions (concluded), Integer Partitions | Chapter 5  {{< br >}}   {{< br >}}  |
-| 6 | Integer Partitions (concluded) |
-| 7 | Set Partitions |
-| 8 | Permutations, Cycle Type | Chapter 6  {{< br >}}   {{< br >}}  |
-| 9 | Permutations (cont.), Stirling Numbers of the First Kind |
-| 10 | Permutations (concluded) |
-| 11 | The Sieve | Chapter 7  {{< br >}}  |
-| 12 | The Sieve (cont.), Generating Functions |
-| 13 | Generating Functions (continued) | Chapter 8  {{< br >}}   {{< br >}}  |
-| 14 | Generating Functions (concluded) |
-| 15 | Catalan Numbers |
-| 16 || {{< td-colspan 2 >}}Midterm One-Hour Exam 1 (Chapters 1–7, omitting pp. 123–24){{< /td-colspan >}} ||
-| 17 | Partitions | Chapter 8 (continued)  {{< br >}}   {{< br >}}  |
-| 18 | Exponential Generating Functions |
-| 19 | Exponential Generating Functions (concluded) |
-| 20 | Vertex Degree, Eulerian Walks | Chapter 9  {{< br >}}  |
-| 21 | Isomorphism, Hamiltonian Cycles |
-| 22 | Tournaments, Trees | Chapter 10  {{< br >}}  |
-| 23 | Counting Trees |
-| 24 | Minimum Weight Spanning Trees |  {{< br >}}{{< br >}} [Matrix-Tree Theorem (PDF)]({{< baseurl >}}/resources/mit18_314f14_mt)  {{< br >}}paralleling Section 10.4. There are  {{< br >}}also two exercises. {{< br >}}{{< br >}} [More on Matrix-Tree Theorem (PDF)]({{< baseurl >}}/resources/mit18_314f14_mt2)  {{< br >}}for information only to see some  {{< br >}}more algebraic combinatorics. {{< br >}}{{< br >}}  |
-| 25 | Matrix-Tree Theorem | Chapter 10 (continued) |
-| 26 | Matrix-Tree Theorem (concluded), Bipartite Graphs | Finish Chapter 10 and start Chapter 11. |
-| 27 | Bipartite Graphs (concluded) | Chapter 11 |
-| 28 | Matchings in Bipartite Graphs | Chapter 11 (continued) |
-| 29 || {{< td-colspan 2 >}}Midterm One-Hour Exam 2 (Chapters 8–10.2){{< /td-colspan >}} ||
-| 30 | Latin Rectangles, Konig-Egervary Theorem | Chapter 11 (continued)  {{< br >}}   {{< br >}}  |
-| 31 | Matchings in Bipartite Graphs (concluded) |
-| 32 | Chromatic Polynomials |
-| 33 | Planar Graphs | Chapter 12  {{< br >}}   {{< br >}}   {{< br >}}  |
-| 34 | Polyhedra |
-| 35 | Polyhedra (concluded) |
-| 36 | Coloring Maps |
-| 37 | Ramsey Theory | Chapter 13  {{< br >}}  |
-| 38 | A Probabilistic Proof |
-| 39 | Discussion of Final Exam, Answering Questions | &nbsp; |
-| 40 || {{< td-colspan 2 >}}Final Exam (Chapters 1–12){{< /td-colspan >}} |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Pigeonhole Principle
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Induction, Elementary Counting
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 2 and start Chapter 3.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Elementary Counting (concluded)
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 3 (continued)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Binomial Theorem, Compositions
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Compositions (concluded), Integer Partitions
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 5  
+   
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Integer Partitions (concluded)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Set Partitions
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Permutations, Cycle Type
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 6  
+   
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Permutations (cont.), Stirling Numbers of the First Kind
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Permutations (concluded)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+The Sieve
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 7  
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+The Sieve (cont.), Generating Functions
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Generating Functions (continued)
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 8  
+   
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Generating Functions (concluded)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Catalan Numbers
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen colspan="2" >}}
+Midterm One-Hour Exam 1 (Chapters 1–7, omitting pp. 123–24)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Partitions
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 8 (continued)  
+   
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Exponential Generating Functions
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Exponential Generating Functions (concluded)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Vertex Degree, Eulerian Walks
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 9  
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Isomorphism, Hamiltonian Cycles
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Tournaments, Trees
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 10  
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Counting Trees
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Minimum Weight Spanning Trees
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Matrix-Tree Theorem (PDF)]({{< baseurl >}}/resources/mit18_314f14_mt)  
+paralleling Section 10.4. There are  
+also two exercises.
+
+[More on Matrix-Tree Theorem (PDF)]({{< baseurl >}}/resources/mit18_314f14_mt2)  
+for information only to see some  
+more algebraic combinatorics.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Matrix-Tree Theorem
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 10 (continued)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Matrix-Tree Theorem (concluded), Bipartite Graphs
+{{< tdclose >}}
+{{< tdopen >}}
+Finish Chapter 10 and start Chapter 11.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+27
+{{< tdclose >}}
+{{< tdopen >}}
+Bipartite Graphs (concluded)
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 11
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+28
+{{< tdclose >}}
+{{< tdopen >}}
+Matchings in Bipartite Graphs
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 11 (continued)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+29
+{{< tdclose >}}
+{{< tdopen colspan="2" >}}
+Midterm One-Hour Exam 2 (Chapters 8–10.2)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+30
+{{< tdclose >}}
+{{< tdopen >}}
+Latin Rectangles, Konig-Egervary Theorem
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 11 (continued)  
+   
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+31
+{{< tdclose >}}
+{{< tdopen >}}
+Matchings in Bipartite Graphs (concluded)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+32
+{{< tdclose >}}
+{{< tdopen >}}
+Chromatic Polynomials
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+33
+{{< tdclose >}}
+{{< tdopen >}}
+Planar Graphs
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 12  
+   
+   
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+34
+{{< tdclose >}}
+{{< tdopen >}}
+Polyhedra
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+35
+{{< tdclose >}}
+{{< tdopen >}}
+Polyhedra (concluded)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+36
+{{< tdclose >}}
+{{< tdopen >}}
+Coloring Maps
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+37
+{{< tdclose >}}
+{{< tdopen >}}
+Ramsey Theory
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 13  
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+38
+{{< tdclose >}}
+{{< tdopen >}}
+A Probabilistic Proof
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+39
+{{< tdclose >}}
+{{< tdopen >}}
+Discussion of Final Exam, Answering Questions
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+40
+{{< tdclose >}}
+{{< tdopen colspan="2" >}}
+Final Exam (Chapters 1–12)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
