@@ -14,17 +14,126 @@ Practice problems are listed for each class session. They are not to be handed i
 
 "Reasonable" collaboration is permitted on problem sets, but you should not just copy someone else's work or look up the solution from an outside source. On each problem sets please write the names of those students with whom you have collaborated.
 
-| PROBLEM SET # | DUE IN |
-| --- | --- |
-| [Problem Set 1]({{< baseurl >}}/pages/assignments/problem-set-1) | Session 3 |
-| [Problem Set 2]({{< baseurl >}}/pages/assignments/problem-set-2) | Session 6 |
-| [Problem Set 3]({{< baseurl >}}/pages/assignments/problem-set-3) | Session 8 |
-| [Problem Set 4]({{< baseurl >}}/pages/assignments/problem-set-4) | Session 11 |
-| [Problem Set 5]({{< baseurl >}}/pages/assignments/problem-set-5) | Session 14 |
-| [Problem Set 6]({{< baseurl >}}/pages/assignments/problem-set-6) | Session 17 |
-| [Problem Set 7]({{< baseurl >}}/pages/assignments/problem-set-7) | Session 19 |
-| [Problem Set 8]({{< baseurl >}}/pages/assignments/problem-set-8) | Session 22 |
-| [Problem Set 9]({{< baseurl >}}/pages/assignments/problem-set-9) | Session 25 |
-| [Problem Set 10]({{< baseurl >}}/pages/assignments/problem-set-10) | Session 30 |
-| [Problem Set 11]({{< baseurl >}}/pages/assignments/problem-set-11) | Session 33 |
-| [Problem Set 12]({{< baseurl >}}/pages/assignments/problem-set-12) | Session 37
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+PROBLEM SET #
+{{< thclose >}}
+{{< thopen >}}
+DUE IN
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Problem Set 1]({{< baseurl >}}/pages/assignments/problem-set-1)
+{{< tdclose >}}
+{{< tdopen >}}
+Session 3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Problem Set 2]({{< baseurl >}}/pages/assignments/problem-set-2)
+{{< tdclose >}}
+{{< tdopen >}}
+Session 6
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Problem Set 3]({{< baseurl >}}/pages/assignments/problem-set-3)
+{{< tdclose >}}
+{{< tdopen >}}
+Session 8
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Problem Set 4]({{< baseurl >}}/pages/assignments/problem-set-4)
+{{< tdclose >}}
+{{< tdopen >}}
+Session 11
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Problem Set 5]({{< baseurl >}}/pages/assignments/problem-set-5)
+{{< tdclose >}}
+{{< tdopen >}}
+Session 14
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Problem Set 6]({{< baseurl >}}/pages/assignments/problem-set-6)
+{{< tdclose >}}
+{{< tdopen >}}
+Session 17
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Problem Set 7]({{< baseurl >}}/pages/assignments/problem-set-7)
+{{< tdclose >}}
+{{< tdopen >}}
+Session 19
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Problem Set 8]({{< baseurl >}}/pages/assignments/problem-set-8)
+{{< tdclose >}}
+{{< tdopen >}}
+Session 22
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Problem Set 9]({{< baseurl >}}/pages/assignments/problem-set-9)
+{{< tdclose >}}
+{{< tdopen >}}
+Session 25
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Problem Set 10]({{< baseurl >}}/pages/assignments/problem-set-10)
+{{< tdclose >}}
+{{< tdopen >}}
+Session 30
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Problem Set 11]({{< baseurl >}}/pages/assignments/problem-set-11)
+{{< tdclose >}}
+{{< tdopen >}}
+Session 33
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Problem Set 12]({{< baseurl >}}/pages/assignments/problem-set-12)
+{{< tdclose >}}
+{{< tdopen >}}
+Session 37
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

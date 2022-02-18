@@ -24,7 +24,7 @@ Problem Set 5
 *   Additional Problems
     *   None
 *   Bonus Problems
-    *   (B1) Let _E__n_ denote the number of permutations _a_1_a_2…_a_n of 1,2,…,_n_ such that _a_1\>_a_2<_a_3\> _a_4<…. (The signs > and < alternate.) For instance, _E_4\=5, corresponding to 2143, 3142, 3241, 4132, 4231. Show that for _n_\>0,  
+    *   (B1) Let _E__n_ denote the number of permutations _a_1_a_2…_a_n of 1,2,…,_n_ such that _a_1\>_a_2\<_a_3\> _a_4\<…. (The signs > and \< alternate.) For instance, _E_4\=5, corresponding to 2143, 3142, 3241, 4132, 4231. Show that for _n_\>0,  
         _E_2_n_ = {2_n_\\choose 2}_E_2_n_\-2 - {2_n_\\choose 4}_E_2_n_\-4 + {2_n_\\choose 6}_E_2_n_\-6 - ….  
         Deduce from this recurrence a simple formula for the generating function Σ_n_≥0 _E_2_n_ _x_2_n_/(2_n_)!.
 
