@@ -22,6 +22,6 @@ Problem Set 6
 *   Problems Assigned in the Textbook
     *   Chapter 8: Exercises 24, 26, 35. In 24 use generating functions. Do not simply guess the answer and verify that it is correct. In 35, _H__n_ should be _h__n_. Also find a simple explicit formula for _h__n_.
 *   Additional Problems
-    *   (A7) Let _f_(_n_) be the number of ways to stack pennies against a flat wall as follows: the bottom level consists of a row of _n_ pennies, each tangent to its neighbor(s). A penny may be placed in a higher row if it is supported by two pennies below it. Here is ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[an example (PDF)]({{< baseurl >}}/resources/mit18_314f14_pennies) for _n_\=10 and for all five possibilities when _n_\=3. Show that _f_(_n_)=_C__n_, a Catalan number. (One of many methods is to give a bijection with the Dyck paths discussed in class.)
+    *   (A7) Let _f_(_n_) be the number of ways to stack pennies against a flat wall as follows: the bottom level consists of a row of _n_ pennies, each tangent to its neighbor(s). A penny may be placed in a higher row if it is supported by two pennies below it. Here is [an example (PDF)]({{< baseurl >}}/resources/mit18_314f14_pennies) for _n_\=10 and for all five possibilities when _n_\=3. Show that _f_(_n_)=_C__n_, a Catalan number. (One of many methods is to give a bijection with the Dyck paths discussed in class.)
 *   Bonus Problems
     *   None
